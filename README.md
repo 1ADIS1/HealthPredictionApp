@@ -1,0 +1,2 @@
+# HealthPredictionApp
+SSaD team project 
